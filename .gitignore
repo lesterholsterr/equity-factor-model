@@ -1,3 +1,4 @@
 *.sas7bdat
 *.xlsx
+*.pdf
 venv
